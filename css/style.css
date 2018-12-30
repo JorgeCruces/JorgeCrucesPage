@@ -425,7 +425,8 @@ div.proyectos-contenedor{
     width: 100%;
     flex-direction: column;
     display: flex;
-    background-image: linear-gradient(to top, #a18cd1 0%, #fbc2eb 100%);
+       background-image: linear-gradient(to top, #fddb92 0%, #d1fdff 100%);
+
 }
 
 .proyecto h1{
